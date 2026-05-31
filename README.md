@@ -19,8 +19,6 @@ The purpose of this project is to understand low-level embedded systems developm
 
 - Embedded C
 - ARM Cortex-M4
-- STM32F411xE
-- CMSIS
 - STM32CubeIDE
 
 ## Project Structure
