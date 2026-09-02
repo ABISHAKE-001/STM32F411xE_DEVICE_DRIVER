@@ -1,10 +1,3 @@
-/*
- * EXTI_Driver.h
- *
- *  Created on: May 2, 2025
- *      Author: sathyan
- */
-
 #ifndef EXTI_DRIVER_H_
 #define EXTI_DRIVER_H_
 
