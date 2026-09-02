@@ -1,10 +1,3 @@
-/*
- * SYSCONFIG_Driver.h
- *
- *  Created on: May 2, 2025
- *      Author: sathyan
- */
-
 #ifndef SYSCONFIG_DRIVER_H_
 #define SYSCONFIG_DRIVER_H_
 
