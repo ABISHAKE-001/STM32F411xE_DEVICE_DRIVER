@@ -1,10 +1,3 @@
-/*
- * GPS_Driver.h
- *
- *  Created on: Aug 5, 2025
- *      Author: sathyan
- */
-
 #ifndef GPS_DRIVER_H_
 #define GPS_DRIVER_H_
 
