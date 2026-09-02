@@ -1,10 +1,3 @@
-/*
- * NVIC_Driver.h
- *
- *  Created on: May 2, 2025
- *      Author: sathyan
- */
-
 #ifndef NVIC_DRIVER_H_
 #define NVIC_DRIVER_H_
 
