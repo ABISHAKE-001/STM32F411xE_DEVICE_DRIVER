@@ -1,9 +1,4 @@
-/*
- * GPS_Driver.c
- *
- *  Created on: Aug 5, 2025
- *      Author: sathyan
- */
+
 
 #include "GPS_Driver.h"
 #include "stdio.h"
