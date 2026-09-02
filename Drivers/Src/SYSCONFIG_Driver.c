@@ -1,10 +1,3 @@
-/*
- * SYSCONFIG_Driver.c
- *
- *  Created on: May 2, 2025
- *      Author: sathyan
- */
-
 #include "SYSCONFIG_Driver.h"
 
 /* This function accepts two inputs and configures the SYSCFG_EXTICRx Register*/
