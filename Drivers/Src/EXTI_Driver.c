@@ -1,11 +1,3 @@
-/*
- * EXTI_Driver.c
- *
- *  Created on: May 2, 2025
- *      Author: sathyan
- */
-
-
 #include "EXTI_Driver.h"
 
 /*This function enables the Interrupt of EXTI by unmasking the IMR Register*/
