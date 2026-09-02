@@ -1,10 +1,3 @@
-/*
- * USART_Driver.c
- *
- *  Created on: May 25, 2025
- *      Author: sathyan
- */
-
 #include "USART_Driver.h"
 #include "GPIO_Driver.h"
 #include "RCC_Driver.h"
