@@ -1,10 +1,3 @@
-/*
- * USART_Driver.h
- *
- *  Created on: May 18, 2025
- *      Author: sathyan
- */
-
 #ifndef USART_DRIVER_H_
 #define USART_DRIVER_H_
 
